@@ -2,11 +2,11 @@
 
 
 
-
-- Desk research: Análisis Competencia 
+- Mapa de empatía
+- Desk research: Análisis Competencia
 - 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
+- 4 User Journey Map  ( 2 por persona)
 - Revisión de Usabilidad 
 
 
-(valoración y conclusiones de esta etapa)
+Diseño atractivo, navegación intuitiva y contenido bien organizado para una experiencia de usuario sólida en tours gratuitos por Granada.
