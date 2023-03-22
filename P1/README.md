@@ -2,8 +2,8 @@
 
 
 
-- Mapa de empatía
-Conclusión: Todos los usuarios acaban contratando un tour para satisfacer las necesidades de cada persona. Además, el feedback de cada uno es positivo.\
+- Mapa de empatía\
+Conclusión: Todos los usuarios acaban contratando un tour para satisfacer las necesidades de cada persona. Además, el feedback de cada uno es positivo.
 
 - Desk research: Análisis Competencia
 Conclusión: La página web que estamos analizando resulta ser la que menos puntos positivos tiene, comparándola con los otros dos sitios web.
