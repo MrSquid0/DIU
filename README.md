@@ -2,14 +2,17 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: DIU2_12TrioDinamico.  Curso: 2022/23 
-Updated: 08/03/2023
+Updated: 04/04/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Granada a Pie
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Aplicación web sencilla, rápida e intuitiva para reservar tours sobre  
+la ciudad de Granada. Además de la reserva de tours, se puede consultar 
+la galería de la web, conocer el equipo, aprender la historia de la 
+empresa o contactar con Granada a Pie para cualquier tema.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
