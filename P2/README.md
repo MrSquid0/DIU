@@ -2,7 +2,7 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Point of View
+* Point of View \
 Conclusión: La página web tiene un buen diseño y es bastante intuitiva, lo que es una 
 ventaja importante para los usuarios. Sin embargo, es cierto que hay algunas debilidades 
 que podrían ser mejorables, como la falta de traducción completa de la página y la 
