@@ -44,10 +44,10 @@ Conclusión: Tenemos una idea lógica de cómo va a quedar nuestro sitio web y c
 Conclusión: Hemos profundizado en cada parte lógica del Sitemap para describir detalladamente
 en qué consiste cada sessión de la web.
 
-### Prototipo Lo-FI Wireframe 
-Conclusión: Hemos llevado a la práctica el primer boceto a través de Figma de cómo quedaría la 
-página principal del sitio web. Creemos que es un diseño que puede ser bastante parecido al 
-diseño final.
+### [Prototipo Lo-FI Wireframe] (https://github.com/MrSquid0/DIU/blob/master/P2/Bocetos.pdf)
+Conclusión: Hemos llevado a la práctica los bocetos a través de la app de iPad GoodNotes para ver 
+cómo quedarían todas las páginas del sitio web. Creemos que es un primer diseño que puede ser 
+bastante parecido al diseño final.
 
 ### Conclusión general  
 Creemos que ya tenemos una idea bastante extendida de todo lo que vamos a desarrollar y con ideas 
