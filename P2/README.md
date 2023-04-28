@@ -1,8 +1,11 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* [Malla receptora de información](https://github.com/MrSquid0/DIU/blob/master/P2/Malla%20Receptora.pdf) \
-Conclusión: 
+* [Malla receptora de información](https://github.com/MrSquid0/DIU/blob/master/P2/Malla%20receptora.jpg) \
+Conclusión: Creemos que hemos extraído toda la información interesante y relevante de 
+la competencia, tras haber realizado un estudio profundo y exhaustivo de las empresas 
+principalmente competidoras del mercado en Granada. Haremos hincapié en cada uno de 
+estos detalles detectados, con el objetivo de poder mejorar cada uno de estos items.
  
 * [Point of View](https://github.com/MrSquid0/DIU/blob/master/P2/POV.pdf) \
 Conclusión: La página web tiene un buen diseño y es bastante intuitiva, lo que es una 
@@ -14,7 +17,7 @@ brindar una mejor experiencia al usuario.
 
 
 ### PROPUESTA DE VALOR
-* [ScopeCanvas](https://github.com/MrSquid0/DIU/blob/master/P2/Scope%20Canvas.pdf) \
+* [ScopeCanvas](https://github.com/MrSquid0/DIU/blob/master/P2/Scope%20Canvas.jpeg) \
 Conclusión: El proyecto de tours gratuitos por Granada tiene como propósito ofrecer una 
 experiencia turística de calidad a los usuarios interesados en explorar la ciudad de 
 manera gratuita, a través de una plataforma en línea que les permita reservar y disfrutar 
