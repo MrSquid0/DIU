@@ -1,14 +1,14 @@
 # DIU - Practica 3, entregables
 
-##Moodboard (diseño visual + logotipo) \
-* [Enlace al recurso](https://github.com/MrSquid0/DIU/blob/master/P3/Moodboard.png)
+## Moodboard (diseño visual + logotipo) \
+* [Enlace al recurso]\(https://github.com/MrSquid0/DIU/blob/master/P3/Moodboard.png)
 Conclusión: Creemos que hemos obtenido toda la información importante relativa
 al logotipo y su diseño visual (incluido el lema también). Hemos empleado una 
 paleta de colores bastante interesante y con mucho sentido y nos hemos inspirado 
 en imágenes que concuerdan bastante entre sí.
 
 ## Landing Page
-* [Enlace al recurso](https://github.com/MrSquid0/DIU/blob/master/P3/Landing%20page.pdf)
+* [Enlace al recurso]\(https://github.com/MrSquid0/DIU/blob/master/P3/Landing%20page.pdf)
 Conclusión: Hemos creado una 'página de aterrizaje' adecuada para la empresa. Es una 
 página minimalista, básica y con los términos e información adecuados para que capte 
 la atención de un cliente potencial. Además, con solo un botón principal en toda la web 
@@ -20,9 +20,24 @@ Proporcionamos un mensaje claro, conciso y llamativo: tenemos la idea clara de q
 Conclusión: Hemos dado un paso más que en la práctica dos. En esta práctica ya hemos 
 llevado a cabo los diseños HI-FI. De esta manera, ahora tenemos una idea mucho más 
 apropiada y consciente de cómo será el diseño final. Hemos hecho estos diseños en base 
-al Moodboard ya realizado y a la landing page. En este proceso, además, hemos mejorado 
-ciertos aspectos que no estaban del todo contemplados en los bocetos LO-FI, como por 
-ejemplo, un footer robusto, eficaz y moderno.
+al Moodboard ya realizado y a la landing page. 
+
+En este proceso, además, hemos mejorado ciertos aspectos que no estaban del todo 
+contemplados en los bocetos LO-FI:\
+- Hemos añadido un footer robusto, eficaz y moderno. "Sponsors" sustituidos por los logos de los 
+patrocinadores y "Redes sociales" sustituidos por los iconos de Instagram, Twitter y TikTok.
+- Hemos sustituido "Enlaces de interés" cambiados por un blog denominado "Guía de Granada".
+- Hemos eliminado del header el botón "Inicio".
+- Hemos añadido un símbolo de juguetes, el cual indica que dicho tour tiene la 
+presencia de numerosos niños.
+- Hemos añadido la presencia de los precios de cada tour antes de formalizar la reserva.
+- Hemos sustituido en la búsqueda de tours, en lugar de haber un checkbox, hemos puesto un
+radio button.
+- Hemos añadido en el formulario un desplegable opcional para indicar (llegado el caso) sobre 
+qué tour está contactando el cliente con la empresa.
+- Hemos añadido scroll en numerosas partes de la web para poder ver la información de manera 
+completa, concisa, clara y todo con un diseño responsive.
+- Hemos añadido el icono de Whatsapp en todas las páginas del sitio web.
 
 
 ## Documentación: Publicación del Case Study
