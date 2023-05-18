@@ -1,12 +1,12 @@
 # DIU - Practica 3, entregables
 
-## [Moodboard (diseño visual + logotipo)] (https://github.com/MrSquid0/DIU/blob/master/P3/Moodboard.png) \
+[##[Moodboard (diseño visual + logotipo)] (https://github.com/MrSquid0/DIU/blob/master/P3/Moodboard.png) \
 Conclusión: Creemos que hemos obtenido toda la información importante relativa
 al logotipo y su diseño visual (incluido el lema también). Hemos empleado una 
 paleta de colores bastante interesante y con mucho sentido y nos hemos inspirado 
 en imágenes que concuerdan bastante entre sí.
 
-## [Landing Page] (https://github.com/MrSquid0/DIU/blob/master/P3/Landing%20page.pdf)
+[## Landing Page] (https://github.com/MrSquid0/DIU/blob/master/P3/Landing%20page.pdf)
 Conclusión: Hemos creado una 'página de aterrizaje' adecuada para la empresa. Es una 
 página minimalista, básica y con los términos e información adecuados para que capte 
 la atención de un cliente potencial. Además, con solo un botón principal en toda la web 
