@@ -83,7 +83,7 @@ accesible y enriquecedora para que los viajeros puedan conocer Granada de manera
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Login  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
