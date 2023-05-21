@@ -1,8 +1,8 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Free Tour en Granada ) 
 
 Grupo: DIU2_12TrioDinamico.  Curso: 2022/23 
-Updated: 04/04/2023
+Updated: 21/05/2023
 
 Proyecto: 
 >>> Granada a Pie
