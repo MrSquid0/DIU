@@ -32,27 +32,24 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> En comparación con los otros dos sitios web de la competencia, la página analizada presenta menos puntos positivos en términos de funcionalidad, interacción con los usuarios y diseño. Estos aspectos son fundamentales para brindar una experiencia satisfactoria a los usuarios y pueden influir en la percepción general de la calidad y profesionalismo de la empresa. Es importante considerar estas áreas de mejora para poder competir eficazmente en el mercado.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Miguel se sentiría atraído por nuestra propuesta debido a su interés en soluciones innovadoras y su equilibrio entre trabajo y vida personal. Angela encontraría nuestro servicio atractivo debido a su estilo de vida activo y su pasión por explorar nuevas actividades y desafíos. sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Creemos que las tres experiencias de usuario pueden ser consideradas acciones bastante comunes en el día a día, tanto el hecho de ofrecer tours privados para grupos de trabajo, como para personas que les encante biajar y así como aquellas que simplemente disfrutan de la naturaleza y quieren aprenderlo todo sobre la cultura de una ciudad.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+>>>  * [Enlace al documento](https://github.com/MrSquid0/DIU/blob/master/P1/UsabilityReview.xlsx) \
+>>>  Nuestra valoración final tuvo una puntuación de 73/100 (Good). Dimos esta puntuación porque tras analizar toda la página detectamos varios items y funcionalidades no implementados, los cuales podrían brindar una mejor experiencia en la web.
 
 ## Paso 2. UX Design  
 
@@ -60,30 +57,22 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+Web agradable visualmente, intuitiva, disposicion y detalles de cada tour, recomendaciones. | Mejorar la estetica, destacar las descripciones principales de los servicios, implementar buscadores, añadir mas elementos multimedia y metodos de pagos
+| ------------- | -------------
+¿Podrian haber mas tours privados con una mayor disponibilidad? ¿Como puedo llegar a los lugares turisticos mas importantes de Granada? ¿Qué pasaria si Ilueve? ¿Podria pagarse el tour en persona? | Buscador, videos 360º, ofrecer descuentos en el comercio local y ayuda basada en la tecnología GPT-4
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+>>> Este proyecto de tours gratis por Granada tiene como propésito brindar a los viajeros una experiencia interactiva y educativa para conocer la cultura e historia de Granada de manera econémica y segura. Al ofrecer tours de alta calidad y gratuitos, podemos ayudar a los viajeros a ahorrar dinero y a tener una experiencia unica y enriquecedora en Granada. Nuestro propésito es ofrecer una opcién
+accesible y enriquecedora para que los viajeros puedan conocer Granada de manera auténtica y sin preocupaciones financieras.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> El proyecto de tours gratuitos por Granada tiene como propósito ofrecer una experiencia turística de calidad a los usuarios interesados en explorar la ciudad de manera gratuita, a través de una plataforma en línea que les permita reservar y disfrutar de los tours disponibles. Para lograr esto, es necesario entender las necesidades y motivadores de los usuarios, establecer objetivos claros a corto y largo plazo, y definir acciones concretas que permitan medir el éxito del proyecto a través de indicadores relevantes. Al hacerlo, podemos asegurarnos de que el proyecto esté alineado con nuestra misión y visión, y esté en condiciones de ofrecer una experiencia turística inolvidable para los usuarios interesados en explorar Granada de manera gratuita. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> La matriz de tareas/usuarios es una herramienta útil para identificar las tareas más críticas y los perfiles de usuarios más importantes para una página web de tours gratis por Granada. Al identificar estas tareas y perfiles, se puede asegurar que la página web cumpla con sus objetivos y brinde una experiencia positiva a los usuarios. Es importante tener en cuenta que las tareas y perfiles críticos pueden variar dependiendo de los objetivos específicos de la página web y las necesidades de los usuarios.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -100,7 +89,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Hemos llevado a la práctica los bocetos a través de la app de iPad GoodNotes para ver cómo quedarían todas las páginas del sitio web. Creemos que es un primer diseño que puede ser bastante parecido al diseño final.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -109,9 +98,6 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
@@ -119,18 +105,19 @@ Término | Significado
 ----
 
 
->>> Plantear Landing Page 
+>>> Hemos creado una 'página de aterrizaje' adecuada para la empresa. Es una página minimalista, básica y con los términos e información adecuados para que capte la atención de un cliente potencial. Además, con solo un botón principal en toda la web que es para reservar un tour (además de también poder cambiar el idioma, claro). Proporcionamos un mensaje claro, conciso y llamativo: tenemos la idea clara de qué ofrecer.
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>>  Nuestro guideline refleja la esencia y los valores de nuestro proyecto de free tours en Granada, cuyo propósito es promocionar el comercio local y dar a conocer las bellezas, misterios y maravillas de esta ciudad histórica. En resumen, nuestro proyecto ofrece una experiencia fluida y eficiente gracias a las diversas características y funcionalidades expuestas. Por ese motivo hemos elegido patrones de diseño de tales características como pueden ser la eleccion de fechas mediante calendarios interactivos, breadcrums, pestañas que indican tu posicion acutal en la pagina... y otros muchos mas.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Hemos dado un paso más que en la práctica dos. En esta práctica ya hemos llevado a cabo los diseños HI-FI. De esta manera, ahora tenemos una idea mucho más apropiada y consciente de cómo será el diseño final. Hemos hecho estos diseños en base al Moodboard ya realizado y a la landing page. 
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
