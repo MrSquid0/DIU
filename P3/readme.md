@@ -16,8 +16,8 @@ que es para reservar un tour (además de también poder cambiar el idioma, claro
 Proporcionamos un mensaje claro, conciso y llamativo: tenemos la idea clara de qué ofrecer.
 
 ## Guidelines y patrones de diseño
-* [Enlace a Guidelines](https://github.com/MrSquid0/DIU/blob/master/P3/Patrones%20de%20dise%C3%B1o.pdf) \
-* [Enlace a patrones de diseño](https://github.com/MrSquid0/DIU/blob/master/P3/Guidelines.pdf) \
+* [Enlace a Guideline](https://github.com/MrSquid0/DIU/blob/master/P3/Guideline.pdf)
+* [Enlace a patrones de diseño](https://github.com/MrSquid0/DIU/blob/master/P3/Patrones%20de%20dise%C3%B1o.pdf) \
 Conclusión: El presente guideline refleja la esencia y los valores de nuestro proyecto de 
 free tours en Granada, cuyo propósito es promocionar el comercio local y dar a conocer las 
 bellezas, misterios y maravillas de esta ciudad histórica. En resumen, nuestro proyecto 
