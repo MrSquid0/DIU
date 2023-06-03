@@ -190,19 +190,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 ## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
-
-
-
+El proceso de desarrollo de diseño siguiendo metodología UX fue bastante bueno. Los resultados obtenidos 
+fueron mayoritariamente positivos, con una interfaz intuitiva y atractiva para la aplicación web de 
+tours en Granada capital. Hay ciertos aspectos negativos a mejorar, pero que, sin embargo, son ínfimos, 
+tras haber añadido a todo nuestro diseño, la mayoría de mejoras y propuestas que nos sugirió la profesora.
+En general, estamos muy satisfechos con el trabajo realizado a lo largo de todo el cuatrimestre y sentimos 
+que hemos aprendido muchísimo en la asignatura para una posible experiencia laboral futura.
